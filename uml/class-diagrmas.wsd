@@ -1,0 +1,19 @@
+@startuml
+
+entity Category
+
+Category : uuid id
+Category : uuid name
+Category : uuid description
+Category : uuid is_active
+Category : uuid created_at
+
+Category : create()
+Category : update()
+Category : activate()
+Category : deactivate()
+Category : delete()
+
+
+
+@enduml

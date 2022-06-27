@@ -1,0 +1,17 @@
+{
+  "name": "netflix-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Lucas carmo - devflow",
+  "license": "MIT",
+  "scripts": {
+    "no": "echo notihing-here",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
